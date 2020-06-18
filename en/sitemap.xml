@@ -14,7 +14,7 @@
   
   <url>
     <loc>http://jang2078.github.io/en/</loc>
-    <lastmod>2020-06-18T12:02:50+09:00</lastmod>
+    <lastmod>2020-06-18T11:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -25,31 +25,6 @@
                 hreflang="en"
                 href="http://jang2078.github.io/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://jang2078.github.io/en/posts/</loc>
-    <lastmod>2020-06-18T12:02:50+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://jang2078.github.io/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jang2078.github.io/en/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://jang2078.github.io/en/posts/test1/</loc>
-    <lastmod>2020-06-18T12:02:50+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jang2078.github.io/en/posts/test/</loc>
-    <lastmod>2020-06-18T12:01:47+09:00</lastmod>
   </url>
   
   <url>
@@ -207,6 +182,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jang2078.github.io/en/tags/index/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://jang2078.github.io/en/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://jang2078.github.io/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jang2078.github.io/en/posts/"
                 />
   </url>
   
